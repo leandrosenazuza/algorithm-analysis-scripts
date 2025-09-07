@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MaxRevenueRodProblem" />
         <module name="BinaryAddition" />
+        <module name="ComplementaryDNA" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
